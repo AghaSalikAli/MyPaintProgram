@@ -1,2 +1,3 @@
 # MyPaintProgram
-A GUI using java with basic functionalities of a Paint Program which include making shapes, grids, free drawing and layers
+This was a Pair Project of my Object Oriented Programming Course where we created our
+very own paint program
